@@ -1,6 +1,6 @@
 name: idle_flutter
 description: "Flutter package for developing idle game."
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/tac0de/idle_flutter
 
 environment:
