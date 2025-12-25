@@ -1,6 +1,6 @@
 name: idle_flutter
-description: "Flutter package for developing idle game."
-version: 0.0.2
+description: "A Flutter adapter for idle / incremental games, built on top of idle_core and idle_save. Automatic lifecycle handling, safe persistence, and offline progress — without footguns."
+version: 0.0.3
 repository: https://github.com/tac0de/idle_flutter
 
 environment:

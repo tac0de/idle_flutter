@@ -1,3 +1,7 @@
+## 0.0.3
+
+- Description updated.
+
 ## 0.0.2
 
 - README.md update.

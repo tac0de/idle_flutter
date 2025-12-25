@@ -1,6 +1,4 @@
 import 'dart:async';
-
-import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
 import 'package:idle_core/idle_core.dart';
 import 'package:idle_save/idle_save.dart';
